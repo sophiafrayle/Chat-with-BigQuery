@@ -188,27 +188,9 @@ This project is designed with modularity in mind, making it easy to extend. Here
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Make sure to include tests for any new features or bug fixes.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For questions or support, please contact [your_email@example.com](mailto:your_email@example.com).
-```
+![contact](https://github.com/sophiafrayle/EDA-Covid/blob/main/images/Sophia%20Frayle.png)
 
-### Key Sections Explained
 
-- **Overview**: Provides a high-level view of what the project does and its key features.
-- **Features**: Highlights the core functionality of the project.
-- **Project Structure**: Gives users an understanding of how the project is organized.
-- **Installation**: Step-by-step instructions for setting up the project on a local machine.
-- **Usage**: Describes how to run the application and provides an example of what to expect.
-- **Configuration**: Explains where to find and how to modify configuration settings.
-- **Troubleshooting**: Common issues and their solutions.
-- **Extending the Project**: Suggestions for how to add new features or capabilities.
-- **Contributing**: Guidelines for contributing to the project.
-- **License**: The project's licensing information.
-- **Contact**: How to get in touch with the project maintainers.
-
-This detailed `README.md` will serve as a comprehensive guide for anyone looking to use, understand, or contribute to your project.
